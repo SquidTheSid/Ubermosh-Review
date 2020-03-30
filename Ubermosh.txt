@@ -1,20 +1,111 @@
 --play Ubermosh sound--
 
 Steam's discovery queue manages to periodically surprise me. In between
-recommendations for esteemed titles like Hentai Loot Box Simulator or Hentai Vs
+recommendations for renown titles like Hentai Loot Box Simulator or Hentai Vs
 Furries, I'll come across the occasional hidden gem, such as Ubermosh: Omega. 
 
-It's the perfect antidote to all of the bullshit seen in modern AAA gaming,
-from the overly scripted intro sequences to the invasive microtransactions.
-Here, it's just you, your saint, and the thousands of corpses that lie beneath
-your feet.
+It's an ultraviolent antidote to all of the bullshit in big name titles, from
+the scripted intro sequences to the invasive microtransactions.  Here, it's
+just you, your saint, and the thousands of corpses that lie beneath your feet.
+
+Before I talk about the mechanics in detail, I want to briefly mention the
+game's phenomenal kineasthetics.  From the grungy industrial music blaring in
+the background, to the ridiculous particle effects flying over the screen,
+Ubermosh is a feast for the eyes and ears, almost to the point of being a
+sensory overload.  Thankfully, since each round is short, the game never
+becomes straining to play. 
+
+The combat loop is quite simple. You select one of six classes and create a
+basic loadout comprised of two powerups, ranging from shields to extra lives
+(maxing out at 6). After that, you enter a triangular arena where you must
+survive for 90 seconds while simultaneously slaughtering as many foes as
+possible. The more you kill, the higher your rank. That's easier said than
+done, since one mistake can result in total failure. Therefore, proper
+positioning and threat management are paramount to survival. 
+
+Ultimately, I think what makes this cycle work is how many decisions the player
+needs to make on the fly. In your head, you'll constantly juggle your attention
+between eviscerating trash, dodging flying energy rings, and repositioning your
+saint. Doing all of this in your head while simultaneously focusing on the
+intense visuals brings in a massive adrenaline rush, making every round feel
+utterly chaotic. 
 
 
-The basic gameplay loop is extraordinarily simple. You select one of six
-classes and create a basic loadout of powerups, ranging from shields to extra
-lives. Once you're ready, you're thrown into a triangular arena. The goal?
-Survive for 90 seconds while killing as many enemies as possible within that
-timeframe.  
+Now, let me talk about each of the Saints, as their playstyles radically differ from
+each other, with some feeling more unpredictable than the others. 
 
-Positioning is key to survival in Ubermosh, as one mistake can easily result in
-complete failure. 
+Reez rides the lightning.
+
+
+Aya is a slow burner, as she starts off incredibly weak, with only a puny sword
+and a pistol. As a result, she gets easily overwhelmed by mobs from the getgo.
+However, as the match progresses, she gets progressively stronger, until she
+becomes an obscene monster. Thus, the crux of her playstyle is the timed
+shields that she possesses. You need to be on the offensive to build up her
+passive strength, otherwise, you will lose.  Outside of that, I don't think she
+has any other interesting mechanics of note, especially when compared to the
+other zanier classes. 
+
+T7 channels the power of hentai to eviscerate his enemies with his passively
+spawned tentacles. His primary fire is standard automatic fire and his
+secondary fire shoots out a large swarm of tentacles. While he excels at
+clearing mobs, he's got several drawbacks that limit his otherwise amazing
+crowd control.  For starters, his main source of damage comes from his
+appendages, with his gunfire being merely adequate. This issue is most
+noticeable versus elites like Shredders, as their shields make them highly
+resilient to his feelers. As a result, if he focuses them down, he becomes
+vulnerable to the projectiles coming from mobs. I find that the Warlock Rifle
+powerup greatly mitigates this issue, but he still struggles against elites.
+Secondly, the ending momentum present in movement makes T7's tentacle swarm
+clunky to use, as it feels like he's constantly
+having microspasms, making him feel slower than he actually is. 
+
+Q is unique in that she's the only melee-exclusive Saint in the game. Her
+primary and secondary fire are identical, with them both being rapid melee
+strikes. While this sounds like a liability, she's got two tools to help make
+up for that. Excluding Shredders, Q's sword is able to deflect back enemy
+projectiles.Do keep in mind that she's not able to reflect back energy rings,
+which the game doesn't convey clearly. I think they should've been a different
+color to emphasize this trait, but with how shit is flying on-screen, I can
+understand why there isn't more visual contrast in bullet design.
+
+Q's signature passive are her powerful Melter lasers emitted in front of and
+behind her, based on her kill count. These are controllable, so she can quickly
+sweep through crowds of enemies by spinning the cursor. Overall, Q is a high
+risk and high reward character. She needs to actively parry enemy bullets to
+survive and must abuse her melter lasers to clear out Shredders, which are her
+most dangerous foe. But once you do get a hang of her playstyle, she is an
+exceptionally powerful class.
+
+Kore. Why have one gun when you can have 4? Unlike the other Saints in the
+game, Kore cannot attack directly. Instead, he relies upon his four autogun
+sentries to clear out foes. They all fire in a conal pattern in front of him,
+though he can use the fire button to toggle two autoguns behind him.  Mastering
+his sentries' firing modes is key to success as Kore, as the "conal" pattern
+allows him to burst down priority threats, while his "x" pattern can sweep
+through more crowds. Positioning is especially important for Kore, as he cannot
+deflect back projectiles. I'd say he's the weirdest Saint in the game to play
+as, due to his mechanics being completely unique, but once you understand his
+quirks, he becomes much easier to get a handle on. I do wish there was more I
+could do with him on a moment-to-moment basis, since his autoguns make him feel
+a bit like I'm playing on autopilot. Not a dealbreaker, but his design does
+seem to be the most basic, so I find him to be  rather uninteresting. 
+
+Wook. Of all of the Saints in the game, Wook is the only one I actively dislike.  
+
+Overall, Ubermosh: Omega is a great little time sink. While I would've
+liked to see online leaderboards or local co-op to extend the game's
+longevity, I think it's more than worth the asking price as is. 
+
+Thank you very much for watching. As I promised, this is a shorter video. As
+for the next project, it's all hands on deck as I work on a critique of
+Borderlands 3. Given how much there is to talk about the game, it's going to be
+a while, so it'll at least be a month, if not a few until the video comes out.
+If you'd like to keep up to date on channel news, you can follow me on Twitter
+@SquidTheSid1 or join the Squidcord discord server.  Finally, if you'd like to
+be absolved of all guilt from using an adblocker, you can financially support
+this channel over on Patreon.
+
+As always,
+
+Stay Frosty
