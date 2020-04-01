@@ -37,13 +37,12 @@ Aya is a slow burner, as she starts off incredibly weak, with only a pistol for
 primary fire and a puny sword for her secondary . As a result, she gets easily
 overwhelmed by mobs from the getgo.  However, as the match progresses, she gets
 progressively stronger, until she becomes an obscene monster in the last few
-seconds. The crux of her playstyle are the timed shields that she possesses.
-You need to be on the offensive to build up her passive strength, otherwise,
-you will lose. Personally, I like equipping a the boneblade or warlock rifle to
+seconds. The crux of her playstyle are her timed shields that block projectiles. 
+Personally, I like equipping a the boneblade or warlock rifle to
 help her start out, since I find that's the most critical time period for Aya.
 
 
-T7 channels the power of hentai to eviscerate his enemies with...tentacles.
+T7 channels the power of tentacles to eviscerate his enemies with.
 His primary attack is standard automatic fire and his secondary shoots out a
 swarm of tentacles. While he excels at clearing mobs, he's got several
 drawbacks that limit his otherwise amazing crowd control.  For starters, his
@@ -78,7 +77,7 @@ Reez rides the lightning. Like Aya, she starts off with rather unimpressive
 weaponry. However, her strength lies in her passive brainclaps, which shoot out
 a cone of lightning bolts based on her score. Thus, to maximize Reez's
 effectiveness, you need to constantly chain together brainclaps, forcing you to
-be ultraaggressive in scoring kills.  I think Reez best embodies the manic
+be ultra-aggressive in scoring kills.  I think Reez best embodies the manic
 spirit of this game, and her playstyle encourages you to be highly reckless. 
 
 That said, this brings me to a major gripe I have with the game. When I first
@@ -114,10 +113,13 @@ most basic, so I find him slightly uninteresting from a mechanics standpoint.
 Wook. Of all of the Saints in the game, Wook is the only one I actively
 dislike.  He seems to be a hybrid of Kore and Reez, having autogun sentries
 like the former, and lightning bolts like the latter.  Problem is, he  does
-neither of those particularly well. He has only two autoguns, so they feel
-rather ineffective, and he only has a singular lightning bolt, making his crowd
-clear practically nonexistent. I feel like Wook could've easily been removed
-from the game, since he has no mechanics that make him truly stand out. 
+neither of those particularly well. These passive don't synergize to create a
+cohesive playstyle, but even when combined together, Wook still feels
+underpowered. He has only two autoguns, so they feel rather ineffective at
+clearing crowds, and he only has a singular lightning bolt, making his crowd
+clear practically nonexistent due to its small aoe. I feel like Wook could've
+easily been removed from the game, since he has no mechanics that make him
+truly stand out. 
 
 Overall, Ubermosh: Omega is a great little time sink, despite its issues with
 visual clarity. Truth be told, I would've liked to see online leaderboards or
